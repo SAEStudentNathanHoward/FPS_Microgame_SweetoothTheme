@@ -247,6 +247,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 88.493
       objectReference: {fileID: 0}
+    - target: {fileID: 6471968429945751368, guid: 3b8e9f4d151af824aa86db7efb923e3e,
+        type: 3}
+      propertyPath: ChargeSound
+      value: 
+      objectReference: {fileID: 8300000, guid: b7bbf52859a393e4e904536a415fc532, type: 3}
+    - target: {fileID: 6471968429945751368, guid: 3b8e9f4d151af824aa86db7efb923e3e,
+        type: 3}
+      propertyPath: LoopChargeWeaponSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 2825683ee069c13458db5a03acf13902, type: 3}
+    - target: {fileID: 8323776800172828795, guid: 3b8e9f4d151af824aa86db7efb923e3e,
+        type: 3}
+      propertyPath: ShootSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: b8bd4527fd579cc4eba29e20911d5579, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b8e9f4d151af824aa86db7efb923e3e, type: 3}
 --- !u!4 &514831194118230552 stripped
